@@ -7,6 +7,8 @@
 	echo "We are about to learn how to merge this shit!";
 	echo "We are rocking git!!!yayyyyyyyy";
 
+	echo "laura is about to create a new branch";
+
 
 
 ?>
